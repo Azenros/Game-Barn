@@ -1,7 +1,7 @@
 # Game-Barn
 A VR project created by:
-  - Steven Tran (@Azenros)
-  - Joshua Zenarosa (@jzena001)
-  - Dakota Whelchel (@Dwhelchel)
+  - Steven Tran (@Azenros) (scripting, minigame design)
+  - Joshua Zenarosa (@jzena001) (environment design)
+  - Dakota Whelchel (@Dwhelchel) (lobby design)
 
-The Game Barn is a (WIP) collection of fun, casual minigames set up to
+Information Document: http://bit.ly/GameBarnDoc
